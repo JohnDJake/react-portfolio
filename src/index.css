@@ -1,0 +1,14 @@
+body {
+    font-family: 'Quicksand', sans-serif;
+}
+
+nav {
+    position: fixed;
+    overflow: hidden;
+}
+
+h1 {
+    font-family: 'Saira', sans-serif;
+    font-size: 5vw;
+    text-align: center;
+}
