@@ -16,9 +16,11 @@ export default function App() {
                     <NavLink activeClassName="active" exact component={MyNavLink} to="/portfolio">Portfolio</NavLink>
                 </NavBar>
                 <Switch>
-                    <Route exact path="/"><About /></Route>
-                    <Route exact path="/contact"><Contact /></Route>
-                    <Route exact path="/portfolio"><Portfolio /></Route>
+                    <main className="container blue-grey-text text-lighten-5">
+                        <Route exact path="/"><About /></Route>
+                        <Route exact path="/contact"><Contact /></Route>
+                        <Route exact path="/portfolio"><Portfolio /></Route>
+                    </main>
                 </Switch>
             </HashRouter>
         </div>
