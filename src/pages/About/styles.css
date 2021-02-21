@@ -1,0 +1,8 @@
+p {
+    font-size: 1.3rem;
+}
+
+#headshot {
+    border-radius: 5px;
+    box-shadow: 0 0 4px black;
+}
