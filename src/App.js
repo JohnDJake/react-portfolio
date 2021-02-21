@@ -2,7 +2,7 @@ import React from "react";
 import { HashRouter, Route, NavLink, Switch } from "react-router-dom";
 import NavBar from "./components/NavBar";
 import MyNavLink from "./components/MyNavLink";
-import About from "./pages/About";
+import About from "./pages/About/";
 import Contact from "./pages/Contact";
 import Portfolio from "./pages/Portfolio";
 import "./App.css";
