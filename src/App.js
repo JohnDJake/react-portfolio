@@ -15,13 +15,13 @@ export default function App() {
                     <NavLink activeClassName="active" exact component={MyNavLink} to="/contact">Contact Me</NavLink>
                     <NavLink activeClassName="active" exact component={MyNavLink} to="/portfolio">Portfolio</NavLink>
                 </NavBar>
-                <Switch>
-                    <main className="container blue-grey-text text-lighten-5">
+                <main className="container blue-grey-text text-lighten-5">
+                    <Switch>
                         <Route exact path="/"><About /></Route>
                         <Route exact path="/contact"><Contact /></Route>
                         <Route exact path="/portfolio"><Portfolio /></Route>
-                    </main>
-                </Switch>
+                    </Switch>
+                </main>
             </HashRouter>
         </div>
     )
