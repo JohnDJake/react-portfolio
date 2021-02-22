@@ -1,0 +1,32 @@
+[
+    {
+        "image": "assets/images/reanalysis.png",
+        "title": "re:Analysis",
+        "deployed": "https://lbalbrecht.github.io/pro-communication-analysis/",
+        "source": "https://github.com/lbalbrecht/pro-communication-analysis"
+    },
+    {
+        "image": "assets/images/weather.png",
+        "title": "Weather Dashboard",
+        "deployed": "https://johndjake.github.io/weather-dashboard/",
+        "source": "https://github.com/JohnDJake/weather-dashboard"
+    },
+    {
+        "image": "assets/images/notes.png",
+        "title": "Note Taker",
+        "deployed": "https://johndjake-note-taker.herokuapp.com/",
+        "source": "https://github.com/JohnDJake/note-taker"
+    },
+    {
+        "image": "assets/images/burger.png",
+        "title": "Eat Some Burgers!",
+        "deployed": "https://johndjake-burgers.herokuapp.com/",
+        "source": "https://github.com/JohnDJake/burger"
+    },
+    {
+        "image": "assets/images/bookmark-manager.png",
+        "title": "Bookmark Manager",
+        "deployed": "https://jdj-bookmark-man.herokuapp.com/",
+        "source": "https://github.com/JohnDJake/Bookmark-Manager"
+    }
+]
