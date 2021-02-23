@@ -28,5 +28,11 @@
         "title": "Bookmark Manager",
         "deployed": "https://jdj-bookmark-man.herokuapp.com/",
         "source": "https://github.com/JohnDJake/Bookmark-Manager"
+    },
+    {
+        "image": "assets/images/employee-directory.png",
+        "title": "Employee Directory",
+        "deployed": "https://jdj-employee-directory.herokuapp.com/",
+        "source": "https://github.com/JohnDJake/employee-directory"
     }
 ]
