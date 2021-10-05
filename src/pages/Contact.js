@@ -8,7 +8,7 @@ const contacts = [
     { icon: faLinkedin, href: "https://www.linkedin.com/in/johndjake/", tooltip: "LinkedIn" },
     { icon: faEnvelope, href: "mailto:john.d.jake@gmail.com", tooltip: "Email" },
     { icon: faPhone, href: "tel:+425202JOHN", tooltip: "Phone" },
-    { icon: faFile, href: "assets/docs/Resume_July_2021.pdf", tooltip: "Resume" }
+    { icon: faFile, href: "assets/docs/John_Jacobson_Resume_September_2021.pdf", tooltip: "Resume" }
 ];
 
 export default function Contact() {
